@@ -1,20 +1,23 @@
 {
-  "name" : "igeekspace/WechatSDK",
-  "type" : "library",
-  "description" : "the wechat api library without framework dependency",
-  "require" : {
-    "php" : ">=5.1.0"
+  "name": "igeekspace/WechatSDK",
+  "type": "library",
+  "description": "the wechat api library without framework dependency",
+  "require": {
+    "php": ">=5.1.0"
   },
   "authors": [
     {
       "name": "sknight",
       "email": "360776816@qq.com"
     }
-  ],,
-  "keywords" : [ "wechat", "weixin"],
-  "autoload" : {
-    "psr-4" : {
-      "igeekspace\\WechatSDK\\" : "src/"
+  ],
+  "keywords": [
+    "wechat",
+    "weixin"
+  ],
+  "autoload": {
+    "psr-4": {
+      "igeekspace\\WechatSDK\\": "src/"
     }
   }
 }
