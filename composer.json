@@ -1,5 +1,5 @@
 {
-  "name": "igeekspace/WechatSDK",
+  "name": "igeekspace/wechat_sdk",
   "type": "library",
   "description": "the wechat api library without framework dependency",
   "require": {
